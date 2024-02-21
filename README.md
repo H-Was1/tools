@@ -106,6 +106,20 @@ Path intellisense
 
 Prettier
 
+HTML CSS Support
+
+YAML
+
+dev containers
+
+prisma
+
+thunderclient
+
+postgres
+
+github pull request
+
 Project Manager
 
 Quokka.js
